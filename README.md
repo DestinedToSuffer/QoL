@@ -1,6 +1,8 @@
 ## About The Project
 Simple quality of life changes I thought would be useful for my test enviorment
 
+https://www.spigotmc.org/resources/quality-of-life.101698/
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Installation
