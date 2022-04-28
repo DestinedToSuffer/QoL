@@ -5,7 +5,7 @@ Simple quality of life changes I thought would be useful for my test enviorment
 
 ### Installation
 1. Spigot 1.18.x
-2. Download the QoL-1.0
+2. Download the QoL-1.0.jar
 3. Move into plugins folder
 
 <p align="right">(<a href="#top">back to top</a>)</p>
